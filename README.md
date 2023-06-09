@@ -1,16 +1,7 @@
-# refugi_bot
+# ChatBot
 
-A new Flutter project.
+Chatbot Feito em flutter e DialogFlow.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para que o projeto funcione, é necessário a criação de um agente no DialogFlow (la sera onde a configuração de interação do bot será feita), depois, vá no google console, e crie uma credencial do tipo conta de serviço para seu bot, e nessa credencial, crie uma chave. Selecionando a opção Json, um arquivo será baixado automaticamente na sua máquina. É só inserir esse arquivo na pasta assets e pronto.
